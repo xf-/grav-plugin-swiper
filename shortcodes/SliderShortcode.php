@@ -32,8 +32,6 @@ class SliderShortcode extends Shortcode
 {
     /**
      * Initialize shortcode
-     *
-     * @return string
      */
     public function init()
     {
